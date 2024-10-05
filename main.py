@@ -5,7 +5,7 @@ import threading
 import random
 
 # Токен нашего бота
-bot = telebot.TeleBot('7176177948:AAGOWEjfjJThlZp_FJJSixv-aH0mV29Lf9Q')
+bot = telebot.TeleBot('...')
 
 # Файл с цитатами
 CIT_FILE = '../../../PycharmProjects/ZeroCoder_1/quotes.txt'
